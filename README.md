@@ -1,5 +1,18 @@
 # cyclistic
 google data analytics capstone
+  
+
+Formatting example
+  # Cyclistic
+
+  ## About the Project
+
+  ###### Credits
+
+  Adding an image to README
+
+![La Liga logo](https://cdn.shopify.com/s/files/1/0614/3515/0504/files/Fitwarm_Yorkie_Yorkie_puppy_running_exercise_outdoors_happy_run_3c8b8426-7dbc-4f6b-b951-915c0d1d1772_480x480.jpg?v=1682318319)
+
 
 Writing a README 
   1 needs to be descriptive
@@ -19,15 +32,3 @@ Fundamentals
   9 what problem it hopes to solve
   10 intended use
   11 credits (if sourcing info from elsewhere)
-  
-
-Formatting example
-  # Cyclistic
-
-  ## About the Project
-
-  ###### Credits
-
-  Adding an image to README
-
-![La Liga logo](https://cdn.shopify.com/s/files/1/0614/3515/0504/files/Fitwarm_Yorkie_Yorkie_puppy_running_exercise_outdoors_happy_run_3c8b8426-7dbc-4f6b-b951-915c0d1d1772_480x480.jpg?v=1682318319)

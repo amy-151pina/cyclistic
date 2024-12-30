@@ -1,4 +1,4 @@
-# cyclistic [wip]
+# cyclistic
 google data analytics capstone
   
 

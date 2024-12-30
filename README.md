@@ -15,8 +15,8 @@ Fundamentals
   2. description of technology (and why)
   3. description of the process (and why)
   4. table of contents
-  *5. how the project came about
-  *6. the movtivation
+  5. how the project came about
+  6. the motivation
   7. limitations
   8. challenges
   9. what problem it hopes to solve

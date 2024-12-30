@@ -1,6 +1,6 @@
 # cyclistic
 
-Hello! This is a working project. This case study is a capstone project from the Google Data Analytics Professional Certificate program. I am new to the field of data science and analytics, so this is my first foray into using Python! Please excuse extra notes, comments, and side quests you may come across in this repository. I've decided to leave them there for my own learning purposes.
+Hello! This is a working project. This case study is a capstone project from the Google Data Analytics Professional Certificate program. I am new to the field of data science and analytics, and this is my first foray into using Python. Please excuse extra notes, comments, and side quests you may come across in this repository. I've decided to leave them there for my own learning purposes.
   
 
 ## Learning Notes
